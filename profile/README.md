@@ -46,7 +46,6 @@
 
 
 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.konkuk.mocacong&hl=en-KR)
 
 
 <br><br><br>
